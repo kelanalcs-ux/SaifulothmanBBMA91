@@ -1,0 +1,6 @@
+<resources>
+<style name="Theme.SaifulOthmanBBMA" parent="android:style/Theme.Material.NoActionBar">
+    <item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item>
+    <item name="android:statusBarColor">#08111F</item><item name="android:navigationBarColor">#08111F</item>
+</style>
+</resources>
